@@ -9,6 +9,8 @@ https://paper.dropbox.com/doc/Meeting-notes-Ashita-Bansal-and-Tapasweni-Pathak--
 
 https://paper.dropbox.com/doc/Meeting-notes-Anant-Moudgalya-and-Tapasweni-Pathak--Afeuq6yp~7iXywE~3aFeq0lLAQ-yJdwO6LBNJqcSUOLNVmWu
 
+https://paper.dropbox.com/doc/Meeting-notes-Amulya-Arun-B-and-Tapasweni-Pathak--AfeL75SJpq9aBARyx6Ve6ADWAQ-MzDc2Znves8gqHELXpVr2
+
 
 # Communication
 
@@ -20,8 +22,12 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@anantmoudgalya Timeline]()
 
+[@amulyaarunb Timeline]()
+
 # Calendar
 
 [@Aashi15bansal Calendar]()
 
 [@anantmoudgalya Calendar](https://calendly.com/anantm/15min)
+
+[@amulyaarunb Calendar]()
