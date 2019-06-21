@@ -34,6 +34,6 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@anantmoudgalya Calendar](https://calendly.com/anantm/15min)
 
-[@amulyaarunb Calendar]()
+[@amulyaarunb Calendar](https://calendly.com/its_ashita)
 
 [@bhaskartalla Calendar]()
