@@ -13,8 +13,8 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 # Timelines
 
-[@horaanchal Timeline]()
+[@Aashi15bansal Timeline]()
 
 # Calendar
 
-[@horaanchal Calendar](https://calendly.com/horaanchal17/15min)
+[@Aashi15bansal Calendar]()
