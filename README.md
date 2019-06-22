@@ -3,6 +3,15 @@ Interns would be working w/ me on the listed social research areas.
 
 This repository has things I would like a research papers on, I am very open if you have any ideas just let me know. The intern would work w/ me on the research topics listed as tickets in this repsitory.
 
+# Readings
+
+- https://en.wikipedia.org/wiki/23andMe#Products mostly focus on GENOMES for disease. No humans everyday activities.
+- https://insidehpc.com/2015/12/genomics-and-hpc/
+- http://sitn.hms.harvard.edu/flash/2019/the-computer-science-behind-dna-sequencing/
+- https://people.eecs.berkeley.edu/~yelick/talks/data/GenomicsHPC-BERGenomicsPI18.pdf
+- https://www.hpcwire.com/2018/07/19/hpc-life-genomics-brain-research-and-beyond/
+- Nice read - https://en.wikipedia.org/wiki/Human_Genome_Project
+
 # MOM
 
 https://paper.dropbox.com/doc/Meeting-notes-Ashita-Bansal-and-Tapasweni-Pathak--AffFLhPbWgQfgcse7lnr7Yv~AQ-g5WjtfavJg9ZMu8sUvQsM
