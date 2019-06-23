@@ -22,6 +22,7 @@ https://paper.dropbox.com/doc/Meeting-notes-Amulya-Arun-B-and-Tapasweni-Pathak--
 
 https://paper.dropbox.com/doc/Meeting-notes-Bhaskar-Talla-Balakisan-and-Tapasweni-Pathak--Afd6GVYxctJbT2vscH0TVXIfAQ-sPNMJhy9tPAZ6Svy1DYPw
 
+https://paper.dropbox.com/doc/Meeting-notes-Hardik-Kumar-and-Tapasweni-Pathak--AfmbTk8kbJpE3l8QCK_0wGebAQ-G0phVsg4IrUwcS1ddV9kS
 
 # Communication
 
@@ -37,6 +38,8 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@bhaskartalla Timeline]()
 
+[@kumar-hardik Timeline]()
+
 # Calendar
 
 [@Aashi15bansal Calendar]()
@@ -46,3 +49,5 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 [@amulyaarunb Calendar](https://calendly.com/amulyaarunb/15min)
 
 [@bhaskartalla Calendar]()
+
+[@kumar-hardik Calendar]()
