@@ -62,4 +62,4 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@KevinChittilapilly Calendar]()
 
-[@ucalyptus Calendar]()
+[@ucalyptus Calendar](https://calendly.com/ucalyptus)
