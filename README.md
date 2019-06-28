@@ -34,6 +34,10 @@ https://paper.dropbox.com/doc/Meeting-notes-Niharika-Vadlamudi-and-Tapasweni-Pat
 
 https://paper.dropbox.com/doc/Meeting-notes-Aman-Verma-and-Tapasweni-Pathak--AfvK0mjwcKyP6_sDKbsHwKivAQ-M8qgd7xmOyPPSvAqcjckI
 
+https://paper.dropbox.com/doc/Meeting-notes-Dhiren-Serai-and-Tapasweni-Pathak--Af7q1O4Jr6QkLWJ85pxV6vUOAQ-s0xKzDJ1NNGI4RQmsVHcA
+
+dhirensr
+
 # Communication
 
 On tickets or in https://github.com/tapaswenipathak/Interns-qna
@@ -60,6 +64,8 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@nightwarrior-xxx Timeline]()
 
+[@dhirensr Timeline]()
+
 # Calendar
 
 [@Aashi15bansal Calendar]()
@@ -81,3 +87,5 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 [@NiharikaMessi Calendar]()
 
 [@nightwarrior-xxx Calendar]()
+
+[@dhirensr Calendar]()
